@@ -1,2 +1,2 @@
 # angular-test
-# Test for angular application
+Test for angular application
